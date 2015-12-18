@@ -1,0 +1,50 @@
+
+section p,aside p{font-family: lato-light;}
+body{background: url('images/yellowbord.jpg');background-size: 100% 100%;background-attachment: fixed;background-repeat: no-repeat;}
+h1,h2,h3,h4,h5,h6{font-family: lato-light;}
+#about p{font-family: lato-light;font-size: 16px;}
+#wrap{padding: 0;background: #fff;box-shadow: 0px 0px 10px rgba(0,0,0,0.88);}
+.navbar{margin: 0;padding: 0;}
+#header{padding: 0;}
+.exp{height: 300px;}
+#jm-img{overflow:hidden;padding:0;height: 300px;background: #fff;border: 1px solid silver;border-radius: 4px;box-shadow:0 0 8px rgba(0,0,0,0.35);}
+.jumbotron{margin-bottom: 0;border-radius:none !important;}
+#main{padding: 0;margin-top: 10px;}
+#main h2{height:55px;border-bottom: 5px solid #ddd;}
+#pic img{border-radius: 4px;}
+#accordion{margin-top: 30px;height: auto;}
+#accordion h3{border: 1px solid silver;background: #222;color: #fff;}
+p{font-family: lato-light;}
+#picture{height:140px;border:1px solid silver; border-radius: 4px;}
+#blog{margin-top: 35px;}
+#form{margin-top: 35px;}
+.picture{padding: 0;}
+#small{padding-right: 0;}
+.divider{box-shadow: inset 0px 0px 8px rgba(0,0,0,0.11);}
+#footer{height: 250px;background: rgba(0,0,0,0.80);margin-top: 30px;}
+.btn{text-shadow:0px -1px 0px rgba(0, 0, 0, 0.25);}
+.btn-primary{background: linear-gradient(#08C,#04C);}
+.btn-primary:hover{background: #04C;}
+.btn-info{background: linear-gradient(#5BC0DE, #2F96B4);}
+.btn-info:hover{background: #2F96B4;}
+.btn-inverse{background: linear-gradient(#444, #222);color: #fff;}
+.btn-inverse:hover{background: #222;}
+.btn-danger{background: linear-gradient(#EE5F5B, #BD362F);}
+.btn-danger:hover{background: #BD362F;}
+.btn-warning{background: linear-gradient(#FBB450, #F89406);}
+.btn-warning:hover{background: #F89406;}
+.btn-success{background: linear-gradient(#62C462, #51A351);}
+.btn-success:hover{background: #51A351;}
+b{text-shadow:none;}
+#pre{background: rgba(0,0,0,0.02);border: 1px solid #ddd;padding: 5px;border-radius:4px; }
+.modal-header h3{margin: 8px;}
+.modal-header{background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.04));}
+@font-face{
+	font-family: lato-light;
+	src:url('font/lato/Lato-Light.ttf');
+}
+@font-face{
+	font-family: lato-middle;
+	src:url('font/lato/Lato-Middle.ttf');
+}
+

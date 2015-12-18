@@ -1,0 +1,10 @@
+$(document).ready(function(){
+	$('#one').click(function(){
+		$('#main').load('chennai.html').fadeIn('5000');
+	});
+});
+$(document).ready(function(){
+	$('#two').click(function(){
+		$('#main').load('kancheepuram.html').fadeIn('5000');
+	});
+});
